@@ -1,0 +1,10 @@
+Bugs to Resolve
+
+- potentiometers change eachother
+- change display
+- improve pause function
+
+To Improve:
+
+- implement state machine
+- implement menu 
